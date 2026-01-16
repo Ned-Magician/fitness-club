@@ -1,7 +1,7 @@
-# 🏋️ Fitness Club Website -> [Link]([url](https://fitness-club-git-main-nejats-projects-2542b971.vercel.app/))
+# 🏋️ Fitness Club Website 
 
 A modern fitness website built with **React + Vite**.
-
+[Link to preview](https://fitness-club-git-main-nejats-projects-2542b971.vercel.app/)
 ## 🚀 Features
 
 - Responsive layout
